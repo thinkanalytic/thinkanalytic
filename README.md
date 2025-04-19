@@ -12,7 +12,7 @@
 :computer: :battery: :trophy: :sparkler: :snowflake:
 
 👋 Hi, I’m Ahmed Iqbal 
-👀 I’m interested in ...Web Development
+👀 I’m a ...Web Developer 
 💞️ I’m looking to collaborate on ...github
 <!-- - 💻 Languages ... HTML, CSS, Bootstrap, Javascript, Jquery, PHP, Wordpress -->
 📫 How to reach me ...https://github.com/thinkanalytic
